@@ -1,2 +1,25 @@
-# architectural-pattern-microkernel
-Microkernel Architectural Pattern
+# Microkernel Architectural Pattern
+
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-def-1.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-def-2.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-def-3.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-why.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-components.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-components-core.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-components-internal-servers.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-components-external-servers.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-components-client.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-in-action.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-examples-1.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-examples-2.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-examples-3.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-examples-4.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-examples-5.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-pros.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-cons.png)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-considerations-1)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-considerations-2)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-considerations-3)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-considerations-4)
+![](https://github.com/shamy1st/architectural-patterns/blob/main/images/microkernel-book)
